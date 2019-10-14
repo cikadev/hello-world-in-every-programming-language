@@ -7,3 +7,8 @@ Hello world in every programming language.
 - [C](c/c.c)
 - [C++](c/c++)
 - [Cascading Style Sheets](c/css)
+- [Ruby](r/ruby)
+- [CoffeeScript](c/coffeescript)
+- [R](r/r)
+- [Matlab](m/matlab)
+- [Bash](b/bash)
